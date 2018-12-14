@@ -1,0 +1,6 @@
+com/company/springbootangularjs/SpringbootangularjsApplication.class
+com/company/springbootangularjs/dao/EmployeeDAO.class
+com/company/springbootangularjs/model/Employee.class
+com/company/springbootangularjs/controller/MainRESTController.class
+com/company/springbootangularjs/controller/MainController.class
+com/company/springbootangularjs/model/EmployeeForm.class
